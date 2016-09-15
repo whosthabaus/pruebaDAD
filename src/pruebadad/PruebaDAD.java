@@ -13,6 +13,7 @@ public class PruebaDAD {
         b = leer.nextInt();
         System.out.println("La suma de "+a+" y "+b+" es: "+(a+b));
         System.out.println("Google ");
+        System.out.println("Allahu akbar.");
     }
     
 }
